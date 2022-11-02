@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "heading": "ALL",
+    "body": "ALL",
+    "powers": [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+  },
+  {
+    "id": 2,
+    "heading": "VOICE",
+    "body": "VOICE",
+    "body2": "kk",
+    "powers": [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+  },
+  {
+    "id": 3,
+    "heading": "SMS",
+    "body": "SMS",
+    "powers": [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+  },
+  {
+    "id": 4,
+    "heading": "DATA",
+    "body": "DATA",
+    "powers": [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+  },
+  {
+    "id": 5,
+    "heading": "COMBO",
+    "body": "COMBO",
+    "powers": [
+      "Radiation resistance",
+      "Turning tiny",
+      "Radiation blast"
+    ]
+  },
+  {
+    "type": "topbanners",
+    "id": 6
+  }
+]
